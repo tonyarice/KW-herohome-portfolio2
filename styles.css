@@ -1,0 +1,27 @@
+body {
+    font-family: 'Belleza', sans-serif;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Montserrat', sans-serif;
+height: 100%;
+
+}
+
+.navbar {
+    font-family: var(--heading-font-family);
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url("#");
+    position: relative;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    background-color: lightgray;
+    margin: 0 auto;
+    display: block;
+    padding: 380px;
+    color: white;
+    height: 100%;
+    
+}
